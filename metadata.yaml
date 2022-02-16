@@ -5,12 +5,17 @@ contributor:
     agent_name: WILIMCZYK
     gutenberg_agent_id: '54231'
     url: http://www.gutenberg.org/2009/agents/54231
+covers:
+- cover_type: archival
+  image_path: 67362-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellison, Harlan
     gutenberg_agent_id: '54230'
     url: http://www.gutenberg.org/2009/agents/54230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67362#Glow-Worm
 gutenberg_issued: '2022-02-08'
 identifiers:
   gutenberg: '67362'
